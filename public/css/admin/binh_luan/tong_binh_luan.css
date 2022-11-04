@@ -1,0 +1,16 @@
+.table__sum_comment--center {
+    text-align: center;
+}
+
+.table__sum_comment.btn_detail button {
+    width: 70px;
+    height: 40px;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+.table__sum_comment.btn_detail button:hover {
+    background-color: #C5E1D4;
+    color: black;
+}

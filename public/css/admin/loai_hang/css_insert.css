@@ -1,0 +1,9 @@
+.form__input--btn--loai--hang {
+    margin-top: 20px;
+
+}
+
+.form__input--btn--loai--hang input {
+    margin-right: 20px;
+    padding: 10px;
+}

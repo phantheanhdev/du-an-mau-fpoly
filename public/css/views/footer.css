@@ -1,0 +1,14 @@
+footer {
+    background-color: #FAFAFB;
+}
+
+.footer__view--clien {
+    color: black;
+    padding: 10px;
+    text-align: center;
+}
+
+.footer__view--clien p {
+    padding-left: 10px;
+    line-height: 10px;
+}

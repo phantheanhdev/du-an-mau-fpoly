@@ -1,0 +1,9 @@
+.header__logo a img {
+    width: 400px;
+    height: 100px;
+}
+
+.header__title a{
+    text-decoration: none;
+    color: black;
+}

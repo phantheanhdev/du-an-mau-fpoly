@@ -1,0 +1,22 @@
+.box_hang_hoa img {
+    width: 300px;
+    height: 300px;
+}
+
+.img_hang_hoa {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.list_hang_cung_loai ul {
+    list-style-type: none;
+}
+
+.list_hang_cung_loai ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+.list_hang_cung_loai ul li a:hover {
+    color: #198754;
+}
